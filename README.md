@@ -52,19 +52,19 @@ Job categories are assigned using keyword-based rules and should be treated as a
 ## Dashboard Screenshots
 
 ### Overview
-![Overview](screenshots/01-overview.png)
+![Overview](screenshots/01_Overview.png)
 
 ### Employment Analysis
-![Employment](screenshots/02-employment.png)
+![Employment](screenshots/02_employement.png)
 
 ### Location Intelligence
-![Locations](screenshots/03-locations.png)
+![Locations](screenshots/03_location.png)
 
 ### Remote Work Analysis
-![Remote Work](screenshots/04-remote-work.png)
+![Remote Work](screenshots/04_remotework.png)
 
 ### Data Quality
-![Data Quality](screenshots/05-data-quality.png)
+![Data Quality](screenshots/05_dataquality.png)
 
 ## Project Status
 
